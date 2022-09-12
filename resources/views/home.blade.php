@@ -44,7 +44,7 @@
                 <a href="!#" class="nav-link">ՄԵՐ ՄԱՍԻՆ</a>
             </div>
       </div>
-      <div class="container d-flex justify-content-between home_news">
+      <div class="container d-flex home_news">
             <div class="home_news_1 d-flex align-items-center">
                 <div class="home_news_1_1"></div>
                 <div class="home_news_1_2">
